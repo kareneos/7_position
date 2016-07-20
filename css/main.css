@@ -1,0 +1,35 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.rojo{
+	background-color: #ee3e64;
+	top: 0px;
+	left: 0px;
+	
+}
+.rosa{
+	background-color: pink;
+	top:0px;
+	
+	right: 0px;
+}
+.verde{
+	background-color: #b7d84b;
+	left: 0px;
+	bottom: 0px;
+	
+}
+
+.azul{
+	background-color: #4A64FF;
+	bottom: 0px;
+	right: 0px;
+}
